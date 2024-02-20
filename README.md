@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pakxperts
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in PHP, Javascript
 - 📫 How to reach me: pakxperts.com@gmail.com
 
 <!---
